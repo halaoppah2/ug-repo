@@ -818,5 +818,222 @@ footer{
 
 }
 
+@media screen and (max-width: 768px)
+    {
+
+        .navbar{
+            background: rgb(27, 2, 97);
+            width: auto;
+            height: 50px;
+        }
+
+        .menu-items ul{
+            display: flex;
+            position: unset;
+        }
+
+        .menu-items ul li a{
+            color: rgb(2, 238, 255);
+        }     
+
+        .logo{
+            width: 140px;
+            height: 50px;
+            margin-left: 80px;
+            margin-top: 10px;
+        }
+
+        .sea{
+            margin-top: 20px;
+            margin-right: 80px;
+            width: auto;
+            height: auto;
+        }
+
+        .navbar1{
+            background: rgb(27, 2, 97);
+            width: auto;
+            height: 400px;
+            margin-top: 80px;
+        }
+
+        .navmenu1 ul{
+            display: block;
+          
+        }
+
+        .navmenu1 ul li{
+            margin-block: 15px;
+            padding-top: 10px;
+        }
+
+        .card1,
+        .card2,
+        .card3,
+        .card4{
+            position: unset;
+            display: block;
+            margin-block: 20px;
+            margin-left: 60px;
+        }
+
+        .ne{
+            color: rgb(10, 2, 119);
+            font-size: 15pt;
+        }
+
+        .ugg{
+            position: absolute;
+            margin-top: 1170px;
+            margin-left: 40px;
+            width: 260px;
+            height: 260px;
+        }
+
+        .bar,
+        .bar0{
+            width: auto;
+        }
+
+        .bar div{
+            position: unset;
+            display: block;
+            font-size: 10pt;
+            margin-left: -50px;
+        }
+
+        .bars{
+            display: block;
+            position: unset;
+            margin-top: 50px;
+        }
+
+        .bars p{
+            text-align: left;
+            font-size: 13pt;
+        }
+
+        .bar1{
+            width: auto;
+            display: block;
+            position: unset;
+            margin-top: 1200px;
+        }
+
+        .bar1 p{
+            text-align: left;
+            font-size: 13pt;
+        }
+
+        .bar1 div{
+            font-size: 10pt;
+            margin-left: 20px;
+        }
+
+        .bar2{
+            width: auto;
+            display: block;
+            position: unset;
+            margin-top: 420px;
+        }
+
+        .bar2 p{
+            font-size: 13pt;
+        }
+
+        .feat,
+        .feat1,
+        .feat2,
+        .feat3,
+        .feat4,
+        .feat4,
+        .feat5,
+        .feat6,
+        .feat7,
+        .feat8,
+        .feat9,
+        .feat10,
+        .feat11,
+        .feat12{
+            background: rgb(2, 2, 133);
+            width: 280px;
+            height: 60px;
+            margin-left: 50px;
+        }
+
+        .feat p,
+        .feat1 p,
+        .feat2 p,
+        .feat3 p,
+        .feat4 p,
+        .feat5 p,
+        .feat6 p,
+        .feat7 p,
+        .feat8 p,
+        .feat9 p,
+        .feat10 p,
+        .feat11 p,
+        .feat12 p{
+            font-size: 14px;
+            text-align: center;
+        }
+
+           .bars1{
+            width: auto;
+            height: 50px;
+            display: block;
+            position: unset;
+            margin-top: 930px;
+        }
+
+        .bars1 ul{
+            margin-left: 2px;
+            margin-inline: 2px;
+        }
+
+        .bars1 ul li{
+            display: flex;
+            position: unset;
+            font-size: 10pt;
+            padding-inline: 2px;
+            margin-top: -35px;
+        }
+
+        .bars2{
+            width: auto;
+            display: block;
+            position: unset;
+            margin-top: -5px;
+        }
+
+        footer {
+            width: auto;
+            height: 1300px;
+            display: block;
+            position: unset;
+            margin-top: -50px;
+        }
+
+        .info1{
+            padding-top: 2px;
+            font-size: 10pt;
+            
+        }
+
+        .info .info1{
+            position: unset;
+            display: block;        
+        }
+
+
+        .foot{
+            width: auto;
+            display: block;
+            position: unset;
+            margin-top: -5px;
+        }
+
+}
+
 
 
